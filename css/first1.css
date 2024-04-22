@@ -1,0 +1,30 @@
+#main{
+  display: flex;
+}
+
+.scroll-box {
+  width: 500px; /* Set the desired width */
+  height: 600px; /* Set the desired height */
+  overflow: auto; /* Enable scrollbars when necessary */
+  white-space:nowrap /* Make images appear in a single line */
+}
+
+img {
+  width: 500px; /* Ensure images fill the container width */
+  height: 600px; /* Maintain aspect ratio */
+}
+
+.scroll-box1 {
+  width: 500px; /* Set the desired width */
+  height: 600px; /* Set the desired height */
+  overflow: auto; /* Enable scrollbars when necessary */
+  white-space:nowrap /* Make images appear in a single line */
+}
+
+
+.scroll-box2 {
+  width: 500px; /* Set the desired width */
+  height: 600px; /* Set the desired height */
+  overflow: auto; /* Enable scrollbars when necessary */
+  white-space:nowrap /* Make images appear in a single line */
+}
